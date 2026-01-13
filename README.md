@@ -2,7 +2,7 @@
 
 **Meu primeiro projeto GUI completo!** Revisão prática de Swing.
 
-![Calculadora rodando](screenshot.jpg)
+![Calculadora rodando](calculadora.png)
 
 ## 🎯 Conceitos Dominados
 
